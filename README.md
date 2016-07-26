@@ -3,6 +3,8 @@ Stuff for Lunduke&amp;whatnot
 
 
 Consider it the version 0.000001a
+
+
 1. Download OBS (Open Broadcast Studio)
 
 2. basic.ini goes on ~/.config/obs-studio/basic/profiles/LundukenWhatnot
